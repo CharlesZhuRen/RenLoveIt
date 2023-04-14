@@ -201,10 +201,10 @@
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/CharlesZhuRen"
-    Linkedin = "https://www.linkedin.com/in/ren-zhu-ab0889236/"
-    Twitter = "https://twitter.com/renzhu_charles"
-    Instagram = "https://instagram.com/charleszzzzzzzr?igshid=YmMyMTA2M2Y="
+    GitHub = "CharlesZhuRen"
+    Linkedin = "ren-zhu-ab0889236"
+    Twitter = "renzhu_charles"
+    Instagram = "charleszzzzzzzr?igshid=YmMyMTA2M2Y="
     Facebook = ""
     Telegram = ""
     Medium = ""
